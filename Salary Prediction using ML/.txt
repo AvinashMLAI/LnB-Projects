@@ -1,1 +1,0 @@
-Salary Prediction using ML Regression Algorithm
