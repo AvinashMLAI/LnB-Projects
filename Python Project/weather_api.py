@@ -14,7 +14,7 @@ def data_get():
 
 
 win = Tk()
-win.title("API by Tushar")
+win.title("API by Avinash")
 win.config(bg="light blue")
 win.geometry("500x600")
 
